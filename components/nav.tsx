@@ -5,7 +5,7 @@ import { CiSearch } from "react-icons/ci";
 import { IoIosNotificationsOutline } from "react-icons/io";
 
 const Nav = () => (
-  <div className="flex px-10 py-4 justify-between">
+  <div className="flex px-10 py-5 justify-between">
     <div className="flex">
       <img src="/unlimi.png" alt="logo" className="h-10" />
       <div className="relative w-72 ml-[12%]">
