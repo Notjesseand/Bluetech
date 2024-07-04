@@ -11,7 +11,7 @@ import { useProductContext } from "@/context/ProductContext";
 
 const page = () => {
   const { data } = useProductContext();
-  const jaja = "        "
+ 
 
   return (
     <div className="font-nunito ">
